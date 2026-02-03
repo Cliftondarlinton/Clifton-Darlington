@@ -1,0 +1,27 @@
+clifton-darling-workspace/
+│
+├─ README.md
+├─ clarity-systems/
+│   ├─ README.md
+│   ├─ frameworks/
+│   │   └─ system-principles.md
+│   ├─ patterns/
+│   │   └─ reusable-patterns.md
+│   └─ notes/
+│       └─ reflections.md
+│
+├─ foundations/
+│   ├─ README.md
+│   ├─ principles/
+│   │   └─ first-principles.md
+│   ├─ architectures/
+│   │   └─ base-architecture.md
+│   └─ references/
+│       └─ resources.md
+│
+└─ build-log/
+    ├─ README.md
+    ├─ projects/
+    │   └─ project-001.md
+    └─ experiments/
+        └─ experiment-001.md
